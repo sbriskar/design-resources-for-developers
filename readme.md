@@ -39,6 +39,14 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [H A N D Z](https://www.handz.design/)                                                                   | Free 3D hand illustrations
+|
+| [CHARACTERZ](http://iconz.design/)                                                                       | Biggest 3D illustration library
+|
+| [ICONZ](http://emojiz.design/)                                                                           | 3D icons library, continuously updated
+|
+| [EMOJIZ](http://characterz.design/)                                                                      | Pack of 3D animated emojis, ready for your project
+|
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
 | [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |
