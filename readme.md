@@ -43,6 +43,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [3D libraries by ThreeDee](https://threedee.design/)                                                     | Various cartoon massive 3D packs for your next projects            |
 | [SVG sine waves](https://www.sinwaver.com/)                                                              | Export perfect sine waves as SVG for your front-end projects       |
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
 | [100 Daily UI](https://100dailyui.webflow.io/)                                                           | Free Figma library of products, elements, and screens              |
@@ -91,7 +92,7 @@
 | [Mesh Gradient](https://meshgradient.in/)| Generate & download beautiful mesh gradients. |
 | [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) | Generate CSS Gradients For Shadows. |
 | [Boring Avatars](https://boringavatars.com/) | SVG random, cutely avatars collections |
- | [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
+| [Html to Design](https://www.figma.com/community/plugin/1159123024924461424/html.to.design) | Convert any website into fully editable Figma designs |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
