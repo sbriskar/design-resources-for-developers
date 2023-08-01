@@ -232,6 +232,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [3D Icons - ICONZ](https://iconz.design/)| Huge pack of 3D icons amazing to stand out your next project |
 | [Circum Icons](https://circumicons.com/)| Consistant open source icons as SVG for React, Vue and Svelte |
 | [UXWing](https://uxwing.com/)| Well Optimized, Free icons for commercial use |
 | [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)| 8000+ free icons |
